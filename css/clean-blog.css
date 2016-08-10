@@ -407,6 +407,7 @@ body {
   display: table-cell;
   vertical-align: bottom;
 }
-/*.col-sm-4 {
-  background:blue;
-}*/
+.col-sm-4 {
+  height:500px;
+  
+}
