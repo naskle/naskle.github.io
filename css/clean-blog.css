@@ -398,6 +398,15 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
+.row {
+  display: table;
+}
+
+[class*="col-"] {
+  float: none;
+  display: table-cell;
+  vertical-align: bottom;
+}
 /*.col-sm-4 {
   background:blue;
 }*/
