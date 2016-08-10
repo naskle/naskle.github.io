@@ -38,7 +38,3 @@ jQuery(document).ready(function($) {
             });
     }
 });
-function showstuff() {
-   var currrs= document.getElementById("curse")
-   currrs.style.display = "inline";
-}
