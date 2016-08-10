@@ -38,3 +38,6 @@ jQuery(document).ready(function($) {
             });
     }
 });
+function showstuff() {
+    document.getElementById("curse").style.display = "inline";
+}
