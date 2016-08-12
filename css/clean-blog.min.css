@@ -15,6 +15,7 @@
 }
 #tip2{  height: 290px;
   width: 290px;
+  color: black;
   display: table-cell;
   text-align: center;
   font-size: 32px;
@@ -24,6 +25,7 @@
 }
 #tip3{  height: 290px;
   width: 290px;
+  color: black;
   display: table-cell;
   text-align: center;
   font-size: 34px;
@@ -44,6 +46,7 @@
 #tip4{  height: 290px;
   width: 290px;
   display: table-cell;
+  color: black;
   text-align: center;
   vertical-align: middle;
   font-size: 34px;
@@ -53,6 +56,7 @@
 #tip5{  height: 250px;
   width: 250px;
   display: table-cell;
+  color: black;
   text-align: center;
   vertical-align: middle;
   font-size: 30px;
@@ -64,6 +68,7 @@
   display: table-cell;
   text-align: center;
   font-size: 29px;
+  color: black;
   vertical-align: middle;
   border-radius: 50%; /* may require vendor prefixes */
   background: rgb(153, 235, 255);
@@ -73,6 +78,7 @@
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+  color: black;
   border-radius: 50%; /* may require vendor prefixes */
   background: white;
 }
@@ -92,6 +98,7 @@
   text-align: center;
   vertical-align: middle;
   font-size: 28px;
+  color: black;
   border-radius: 50%; /* may require vendor prefixes */
   background: rgb(255, 102, 102);
 }
@@ -109,6 +116,7 @@
   text-align: center;
   font-size: 30px;
   vertical-align: middle;
+  color: black;
   border-radius: 50%; /* may require vendor prefixes */
   background: rgb(255, 112, 77);
 }
@@ -116,6 +124,7 @@
   width: 290px;
   display: table-cell;
   text-align: center;
+  color: black;
   vertical-align: middle;
   font-size: 34px;
   border-radius: 50%; /* may require vendor prefixes */
