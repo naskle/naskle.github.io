@@ -180,3 +180,7 @@
   border-radius: 50%; /* may require vendor prefixes */
   background-color:#e6b3ff;
 }
+#blueimg{
+opacity:0.6;
+vertical-align: middle;}
+
