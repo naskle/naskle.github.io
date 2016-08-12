@@ -121,3 +121,12 @@
   border-radius: 50%; /* may require vendor prefixes */
   background: rgb(0, 204, 102);
 }
+#hol1{  height: 290px;
+  width: 290px;
+  display: table-cell;
+  text-align: center;
+  font-size: 34px;
+  vertical-align: middle;
+  border-radius: 50%; /* may require vendor prefixes */
+  background-image: url(thanksg.jpg)
+}
