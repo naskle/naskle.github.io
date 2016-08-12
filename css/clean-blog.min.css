@@ -139,3 +139,44 @@
   border-radius: 50%; /* may require vendor prefixes */
   background-image: url(thanksg.jpg)
 }
+
+#tipe1{  height: 250px;
+  width: 250px;
+  display: table-cell;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  border-radius: 50%; /* may require vendor prefixes */
+  background-color:red;
+}
+#tipe2{  height: 250px;
+  width: 250px;
+  display: table-cell;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  border-radius: 50%; /* may require vendor prefixes */
+  background-color:orange;
+}
+#tipe3{  height: 250px;
+  width: 250px;
+  display: table-cell;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  border-radius: 50%; /* may require vendor prefixes */
+  background-color:green;
+}
+#tipe4{  height: 250px;
+  width: 250px;
+  display: table-cell;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  border-radius: 50%; /* may require vendor prefixes */
+  background-color:#e6b3ff;
+}
