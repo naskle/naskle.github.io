@@ -186,7 +186,5 @@ vertical-align: middle;
 float:center;
 }
 .page-heading{text-align:center;}
-#rightmost{float:left; width:33%;}
-#centermost{float:left;width:33%;}
-#leftmost{float:left;width:33%;}
+.jumbotron{float:left;width:33%;}
 
