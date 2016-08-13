@@ -183,7 +183,6 @@
 #blueimg{
 opacity:0.6;
 vertical-align: middle;
-position: relative;
-left: 50px;
+float:center;
 }
 
