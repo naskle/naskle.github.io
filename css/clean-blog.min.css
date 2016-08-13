@@ -186,7 +186,7 @@ vertical-align: middle;
 float:center;
 }
 .page-heading{text-align:center;}
-#rightmost{float:right;}
-#centermost{float:left;}
-#leftmost{float:right;}
+#rightmost{float:left; width:33%;}
+#centermost{float:left;width:33%;}
+#leftmost{float:left;width:33%;}
 
