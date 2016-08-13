@@ -182,5 +182,8 @@
 }
 #blueimg{
 opacity:0.6;
-vertical-align: middle;}
+vertical-align: middle;
+position: relative;
+left: 50px;
+}
 
