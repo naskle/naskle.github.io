@@ -187,6 +187,6 @@ float:center;
 }
 .page-heading{text-align:center;}
 #rightmost{float:right;}
-#centermost{float:center;}
+#centermost{float:none;}
 #leftmost{float:left;}
 
